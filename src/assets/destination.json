@@ -1,0 +1,29 @@
+
+[
+        {
+          "name": "Sydney",
+          "imgUrl": "https://plus.unsplash.com/premium_photo-1697730198238-48ee2f2fe1b7?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D9",
+          "description": "Sydney is known for its stunning harbor and iconic Opera House."
+        },
+        {
+          "name": "Melbourne",
+          "imgUrl": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "description": "Melbourne is famous for its coffee culture and street art."
+        },
+        {
+          "name": "Brisbane",
+          "imgUrl": "https://plus.unsplash.com/premium_photo-1694475701659-444e11e512d9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "description": "Brisbane is a sunny city with beautiful parks and river views."
+        },
+        {
+          "name": "Perth",
+          "imgUrl": "https://plus.unsplash.com/premium_photo-1697729743874-1d9d21ee467d?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "description": "Perth is known for its sandy beaches and laid-back lifestyle."
+        },
+        {
+          "name": "Adelaide",
+          "imgUrl": "https://images.unsplash.com/photo-1702630343923-9ddbf2ee47cb?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "description": "Adelaide offers a vibrant arts scene and world-class wineries."
+        }
+      ]
+    
